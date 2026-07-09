@@ -1,0 +1,5 @@
+iframe {
+      border-radius: 10px;
+      width: 100%;
+      height: 900px; /* Vertical spaces clear ga undడానికి height thoti paatu width fully elastic ga set chesam */
+    }
