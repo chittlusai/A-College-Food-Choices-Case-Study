@@ -19,6 +19,6 @@ This project analyzes college students' food choices using Tableau dashboards an
 - Tableau Public Integration
 
 ## Team Members
-- SWUID2026197200
+- SWUID2026226489
 - SWUID2026226490
 - SWUID2026226275
